@@ -1,0 +1,5 @@
+requests==2.27.1
+selenium==4.1.0
+webdriver_manager==3.8.3
+pillow==8.4.0
+pytesseract==0.3.8
